@@ -22,6 +22,7 @@ The R script called [run_analysis.R](https://github.com/tikizu/datasciencecourse
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-[Submitted data ](https://github.com/tikizu/datasciencecoursera/blob/master/Getting%20and%20Cleaning%20Data/R/codebook.md)
+[Submitted data](https://github.com/tikizu/datasciencecoursera/blob/master/Getting%20and%20Cleaning%20Data/R/codebook.md)
+
 [Code book](https://github.com/tikizu/datasciencecoursera/blob/master/Getting%20and%20Cleaning%20Data/R/codebook.md) 
 
