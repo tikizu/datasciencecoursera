@@ -144,8 +144,8 @@ dt050 <- dt040 %>%
 #################################################################
 ## Export the data for coursera submission
 #################################################################
+write.table(dt050, file.path(out, "submitted.txt"), row.name=FALSE)
 
-write_delim(dt050, file.path(out, "submitted.txt"))
 
 #################################################################
 ## End of file
